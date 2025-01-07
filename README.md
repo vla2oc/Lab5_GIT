@@ -1,2 +1,1 @@
-![Build Status](https://github.com/USER/REPO/actions/workflows/CI.yml/badge.svg)
-
+[![Build Status](https://travis-ci.org/USER/REPO.svg?branch=main)](https://travis-ci.org/USER/REPO)
